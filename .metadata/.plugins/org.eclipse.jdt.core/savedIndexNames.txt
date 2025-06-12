@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+D:\Proyectos TRnetwork\proyecto\.metadata\.plugins\org.eclipse.jdt.core
-3131342151.index
-803275530.index
-1803436998.index
-1865797976.index
-1438311937.index
